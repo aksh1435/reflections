@@ -1,0 +1,2 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+Ans: We intialize a repository to commit the file and check whether it is done or not.
