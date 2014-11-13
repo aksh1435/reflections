@@ -1,2 +1,9 @@
 Q: What happens when you initialize a repository? Why do you need to do it?
 Ans: We intialize a repository to commit the file and check whether it is done or not.
+
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+Ans: Staging area is the palce where the unsaved data (currently working on) is available and Repository is the place where data is saved once we commit it.
+
+
+Q: 
