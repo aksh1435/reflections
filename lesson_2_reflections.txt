@@ -3,7 +3,16 @@ Ans: We intialize a repository to commit the file and check whether it is done o
 
 
 Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
-Ans: Staging area is the palce where the unsaved data (currently working on) is available and Repository is the place where data is saved once we commit it.
+Ans: Working area is the place where we are working on, Staging area is the place where the data is saved and Repository is the place where data/n-files are saved once we commit it as 1-commit.
 
 
-Q: 
+Q: How can you use the staging area to make sure you have one commit per logical change?
+Ans: 
+
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans: If we want to create a easy-mode of a game we can create a new branch without distrubing the master branch and make the changes and we will have the original history/backup always with us.
+
+
+Q: How do the diagrams help you visualize the branch structure?
+Ans: It gives us a image of the flow of our project, shows aal the branches and merging points and helps us to work on with minimum errors/mistakes.
